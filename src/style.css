@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f2f5;
+    height: 100%;
+}
+#root {
+    height: 100%;
+}
+.header {
+    background-color: white;
+    border-bottom: 1px solid #999;
+}
+.content {
+    min-height: 600px;
+    margin: 10px;
+    width: 100%;
+}
+.footer {
+    text-align: center;
+    padding: 12px 50px;
+    border-top: 1px solid #999;
+}

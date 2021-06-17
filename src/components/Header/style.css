@@ -1,0 +1,15 @@
+.app-header-logo{
+    float: left;
+    height: 45px;
+    margin-top: 10px;
+}
+.app-header-menu{
+    float: left;
+    margin-left: 25px !important; 
+    margin-top: 10px !important; 
+    border-bottom: none !important;
+}
+
+.ant-layout-header .ant-menu{
+    line-height: 46px !important;
+}
